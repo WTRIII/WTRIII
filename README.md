@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas Renfroe.
+- 👋 Hi, I’m William Renfroe.
 
 - 👀 I’m interested in lots of stuff, but as it relates to tech, I am interested in coding, bots, AI, and SciFi. Non-tech interests include history, philosophy, politics, the military, Warhammer 40k, gaming, and shooting.
 
