@@ -1,4 +1,4 @@
-- 👋 Hi, I’m William Renfroe. Check out my portfolio here: https://portfolio-wtriii.herokuapp.com/. 
+- 👋 Hi, I’m William Renfroe. Check out my portfolio here: https://portfolio-wtriii.herokuapp.com/. Don't worry, this is very much a work in progress, as I had conflicting commitments at the time I was getting my portfolio up and runnng. 
 
 - 👀 I’m interested in lots of stuff, but as it relates to tech, I am interested in coding, bots, AI, and SciFi. Non-tech interests include history, philosophy, politics, the military, Warhammer 40k, gaming, and shooting.
 
