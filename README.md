@@ -3,4 +3,4 @@
 
 - 🌱 I graduated the UT coding bootcamp in December and am currently looking for employment as a junior web dev. I started coding by modding computer games and developed an interest.
 
-- 📫 How to reach me thomren3@gmail.com
+- 📫 How to reach me william.t.renfroe3@gmail.com
